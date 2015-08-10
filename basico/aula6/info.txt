@@ -1,0 +1,17 @@
+#Captitulo sobre Funções anonimas e closures.
+
+Exercicios.
+
+
+1 - Criar um uma algoritimo que com uma função,
+receba um parametro, calcule e exiba uma tabuada
+em linha de comando.
+
+2 - Criar uma funcao que faca a listagem da letra A
+até a Z, em linha de comando.
+
+3 - Criar um algoritimo para ser usado em CLI, que
+com uma funcao anonima execute uma funcao que mostre
+a listagem dos numeros pares entre 1 e 100.
+
+
